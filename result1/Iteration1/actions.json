@@ -1,0 +1,107 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: advantageonlineshopping.com",
+                "infFile": "t1.inf",
+                "time": 1653581809336
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: ALL",
+                "infFile": "t2.inf",
+                "time": 1653581809473
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t3.inf",
+                "time": 1653581809633
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: categories",
+                "infFile": "t4.inf",
+                "time": 1653581809771
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: search",
+                "infFile": "t5.inf",
+                "time": 1653581809922
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: popularProducts.json",
+                "infFile": "t6.inf",
+                "time": 1653581810042
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: home-page.html",
+                "infFile": "t7.inf",
+                "time": 1653581810134
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: products",
+                "infFile": "t8.inf",
+                "time": 1653581810572
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: attributes",
+                "infFile": "t9.inf",
+                "time": 1653581810971
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: category-page.html",
+                "infFile": "t10.inf",
+                "time": 1653581811027
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: 20",
+                "infFile": "t11.inf",
+                "time": 1653581811203
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: products_2",
+                "infFile": "t12.inf",
+                "time": 1653581811626
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: all_data",
+                "infFile": "t13.inf",
+                "time": 1653581812415
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: product-page.html",
+                "infFile": "t14.inf",
+                "time": 1653581812512
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Launch",
+                "rawStartTime": 1653581807218,
+                "rawEndTime": 1653581809345,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2845311164855957
+            },
+            {
+                "transactionName": "Second",
+                "rawStartTime": 1653581809361,
+                "rawEndTime": 1653581812516,
+                "thinkTime": 0.0,
+                "wastedTime": 0.10711026191711426
+            }
+        ]
+    }
+]

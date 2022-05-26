@@ -1,0 +1,14 @@
+HTTP/2.0 200
+Status: 200
+server: nginx/1.18.0 (Ubuntu)
+date: Thu, 26 May 2022 16:16:50 GMT
+content-type: text/html
+accept-ranges: bytes
+etag: W/"8805-1641810512000"
+last-modified: Mon, 10 Jan 2022 10:28:32 GMT
+cache-control: max-age=0
+expires: Thu, 26 May 2022 16:16:50 GMT
+vary: accept-encoding
+content-encoding: gzip
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+
